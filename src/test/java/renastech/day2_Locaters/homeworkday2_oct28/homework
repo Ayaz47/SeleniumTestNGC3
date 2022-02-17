@@ -1,0 +1,35 @@
+
+
+//task2
+//  //1- Open a chrome browser and go to google
+//        //2- Click to Images link from top right
+//        //3- Verify Title contains Images, expected: "Images"
+
+//task3
+//1.open Chrome browser
+//2.Go to https://www.amazon.com
+//3.type TV on search box
+//4.then click on search button
+//5.verify title
+
+//tc4
+//TASK: Google Feeling lucky button
+//1- Open a chrome browser
+//2- Go to: https://google.com
+//3- Write "apple" in search box
+//click i am feeling lucky button
+//Verify title is Apple
+
+//TASK5: Facebook incorrect login title verification
+//1. Open Chrome browser
+//2. Go to https://www.facebook.com
+//3. Enter incorrect username
+//4. Enter incorrect password
+//5. Verify title changed to:
+//Expected: "Log into Facebook"
+
+//TC #6: Facebook header verification
+//1. Open Chrome browser
+//2. Go to https://www.facebook.com
+//3. click Create a Page link
+//4. verify new page has header called Create a Page (hint get text method)

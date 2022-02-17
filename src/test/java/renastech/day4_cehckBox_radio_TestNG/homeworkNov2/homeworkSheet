@@ -1,0 +1,21 @@
+Task 1
+1)Navigate to http://the-internet.herokuapp.com/
+2)Validate  page title
+3)Validate  page url
+4)Click Checkboxes
+5)Change Checkbox 1 to “Checked”
+6)Validate that its “checked”
+7)Change Checkbox 2 to “Unchecked”
+8)Validate that Checkbox 2 is “Unchecked”
+
+Task 2
+//1. Open Chrome browser
+//2. Go to https://demo.guru99.com/test/radio.html
+//3. Verify all checkboxes are not selected (you can use findelements to store in list and use for loop to validate)
+//4. Click to checkbox3
+//5. Verify checkbox3 is selected
+
+Task 3
+//2. Go to https://demo.guru99.com/test/radio.html
+//4. Click to radiobutton2
+//5. Verify radiobutton2 is selected

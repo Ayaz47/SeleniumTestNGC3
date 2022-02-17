@@ -1,0 +1,28 @@
+//Task1
+//1- Open a chrome browser
+//2- Go to:http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
+//3- Login
+//4. Click on view all products
+//verify prices for each product
+//expected Mymoney 100 ,familyalbum 80 , Screensaver 35
+//Task2
+//    Smartbear software product verification
+//       1. Open browser and login to Smartbear software
+//       2. Click on View all orders
+//       3. Verify Mark Smith has product as  "ScreenSaver"
+//Task3
+// Alert Message handling
+
+        go to "http://demo.guru99.com/test/delete_customer.php"
+       	delete customer 53920
+        // Switch to Alert
+        // Capture alert message.
+        // Display alert message
+        // Accepting alert
+//Task4
+//go to http://the-internet.herokuapp.com/nested_frames
+//switch between frames
+//get text for each frame hint: use tagname to locate text or xpath
+
+//Task5
+//create a util method that will verify given state name is present in the smart bear table (edited)
